@@ -19,13 +19,14 @@ body{
     top:0;
     left:0;
     width:100%;
-    padding: 2rem 9%;
+    padding: 1.5rem 9%;
     background:white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     z-index: 100;
     margin-top:-1.5rem;
+    margin-top: 5px;
 }
 .navbar{
   
@@ -35,7 +36,7 @@ body{
     margin-right: 24rem;
 }
 .header .logo ,img{
-    height: 2.5rem;
+    height: 2rem;
 }
 .navbar a{
     width: 40vw;
